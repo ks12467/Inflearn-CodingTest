@@ -23,7 +23,7 @@ sum * 100/ max / n 출력
 
 import java.util.Scanner;
 
-public class Number_2 {
+public class Baekjoon_1546 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

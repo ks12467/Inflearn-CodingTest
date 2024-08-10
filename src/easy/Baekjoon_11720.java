@@ -17,7 +17,7 @@ for(cNum 길이만큼 반복하기)
 sum 출력하기
  */
 
-public class Number_1 {
+public class Baekjoon_11720 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
