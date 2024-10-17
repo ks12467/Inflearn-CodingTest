@@ -1,4 +1,4 @@
-package hard;
+package normal;
 
 //칵테일 만들기
 
