@@ -1,6 +1,4 @@
-package hard;
-
-//최솟값 찾기 2
+package hard;//최솟값 찾기 2
 
 import java.io.BufferedReader;
 import java.io.IOException;
